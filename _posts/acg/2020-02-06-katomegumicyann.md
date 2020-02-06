@@ -8,4 +8,4 @@ categories: acg
 tag: acg
 ---
 圣人惠天下第一
-![惠](/assets/img/c33835d8bc3eb135e1b7e69bac1ea8d3fd1f4454.jpeg)
+![惠](/assets/img/c33835d8bc3eb135e1b7e69bac1ea8d3fd1f4454.jpg)
