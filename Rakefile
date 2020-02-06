@@ -4,15 +4,15 @@ require 'fileutils'
 
 desc "创建新 post"
 task :new do
-  puts "请输入要创建的文章文件文件名字："
+    puts "请输入要创建的文章文件文件名字："
     @url = STDIN.gets.chomp
+
     puts "请输入文章的 标题："
     @name = STDIN.gets.chomp
+
     puts "请输入文章的 子标题："
     @subtitle = STDIN.gets.chomp
-    # puts "请输入文章的 分类，以空格分隔："
-    # @categories = STDIN.gets.chomp
-    # 现在这俩没啥区别了，就只用输入一个就行了
+
     puts "请输入文章的 标签："
     @tag = STDIN.gets.chomp
 
